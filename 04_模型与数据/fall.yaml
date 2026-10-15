@@ -1,0 +1,6 @@
+path: C:/Users/zhang/Desktop/老人防摔/fall_dataset/fall_dataset
+train: images/train
+val: images/val
+
+nc: 3
+names: ['fall', 'standing', 'sitting']
